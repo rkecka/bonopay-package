@@ -1,0 +1,19 @@
+{
+    "name": "rkecka/bonopay",
+    "description": "Can help you with secure payments through Bonopay",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Radoslav Kecka",
+            "email": "rkecka@gmial.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Rkecka\\Bonopay\\": "src/"
+        }
+    }
+}
